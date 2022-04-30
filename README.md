@@ -1,1 +1,1 @@
-# RCC
+# Robust Control Charts (R examples)
