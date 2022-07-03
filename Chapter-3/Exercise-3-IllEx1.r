@@ -1,3 +1,4 @@
+
  # install.packages("rQCC")
  library(rQCC)
  x1 = c( 73, 73, 73, 75, 75)
@@ -39,7 +40,7 @@ x21 = c( 69, 69, 69, 69, 69)
  plot(CC2)
 
 ###############################################################
-pdf("Example-3-1.pdf", width=4.5, height=3)
+pdf("Exercise-3-IllEx1.pdf", width=4.5, height=3)
 par (mfrow=c(1,2), mar=c(5,7,1,3),omi=c(0,0,0,0),cex=0.5,mex=0.5)
 
  plot(CC1, digits=2)
