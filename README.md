@@ -1,1 +1,1 @@
-# Robust Control Charts (R examples)
+# Robust Quality Control Charts (R examples)
